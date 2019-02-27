@@ -8,7 +8,7 @@ CREATE OR REPLACE FUNCTION DOMINIC.F_WORLD_CITYTIME
    RETURN VARCHAR2
 /*******************************************************************************
   - FUNCTION NAME  : F_WORLD_CITYTIME
-  - DESCRIPTION    : City by Get World Time 
+  - DESCRIPTION    : Get World Time by City
   - MADE BY        : Dominic
   - CREATION DATE  : 2019-01-01
   ------------------------------------------------------------------------------
